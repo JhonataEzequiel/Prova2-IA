@@ -1,2 +1,2 @@
 # Prova2-IA
-Colab e observações da segunda prova da disciplina de IA
+Segunda prova de IA Jhonata Ezequiel Alves de Miranda matrícula: 20190046473
